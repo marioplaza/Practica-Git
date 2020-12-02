@@ -1,0 +1,4 @@
+#excluyo todos los ficheros que empiezan por _
+_*.*
+#menos _ayuda.txt
+!_ayuda.txt
